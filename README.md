@@ -5,3 +5,8 @@ Project build and management configuration is described in the pom.xml located i
 Project sources are located under src/main/java.
 Project resources are located under src/main/resources.
 Project web application files are located under src/main/webapp.
+
+
+Run Maven application:
+
+mvn clean package
