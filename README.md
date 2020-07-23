@@ -7,6 +7,9 @@ Project resources are located under src/main/resources.
 Project web application files are located under src/main/webapp.
 
 
+Always keep application, srping beans XMLs in src/main/resources. 
+
+
 Run Maven application:
 
 mvn clean package
